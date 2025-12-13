@@ -2,7 +2,7 @@
 
 This is a front-end only project that clones various pages from the official FL Studio website using **HTML only**, with *no CSS files* and minimal inline styling.
 
-## 📌 About
+## About
 
 This repository contains the HTML source files for a static clone of FL Studio pages such as:
 - Homepage
@@ -12,7 +12,7 @@ This repository contains the HTML source files for a static clone of FL Studio p
 
 The project does **not** include any backend, database, or server-side logic — it is purely a static HTML prototype.
 
-## 🧩 Features
+## Features
 
 - Clean HTML structure
 - Minimal inline styles
@@ -20,7 +20,7 @@ The project does **not** include any backend, database, or server-side logic —
 - Clickable navigation between pages
 - Sign In / Sign Up mock forms
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── sign up.html
@@ -33,14 +33,12 @@ The project does **not** include any backend, database, or server-side logic —
 └── README.md
 ```
 
-📋 Notes
+## Notes
 
-This project at present contains only HTML and browser navigation.
+- This project at present contains only HTML and browser navigation.
+- No CSS files are used - only inline ```style=""``` where necessary.
+- Sign-in and Sign-up are mock forms and do not perform real authentication.
 
-No CSS files are used - only inline ```style=""``` where necessary.
+## Built With
 
-Sign-in and Sign-up are mock forms and do not perform real authentication.
-
-🛠️ Built With
-
-HTML5
+- HTML5
