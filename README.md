@@ -29,7 +29,7 @@ The project does **not** include any backend, database, or server-side logic —
 ├── instruments.html
 ├── pricing.html
 ├── learn.html
-├── downloads.html
+├── download.html
 └── README.md
 ```
 
@@ -51,7 +51,7 @@ The project does **not** include any backend, database, or server-side logic —
 > - **instruments.html**
 > - **pricing.html**
 > - **learn.html**
-> - **downloads.html**
+> - **download.html**
 > - **sign up.html**
 > - **sign in.html**
 >
