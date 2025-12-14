@@ -42,3 +42,17 @@ The project does **not** include any backend, database, or server-side logic —
 ## Built With
 
 - HTML5
+
+### Note
+
+Currently, only the following pages are functional and contain working links in this project:
+
+- **home.html**
+- **instruments.html**
+- **pricing.html**
+- **learn.html**
+- **downloads.html**
+- **sign up.html**
+- **sign in.html**
+
+Any other links or pages not listed above are either placeholders or non-functional at this time.
