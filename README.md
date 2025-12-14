@@ -43,7 +43,7 @@ The project does **not** include any backend, database, or server-side logic —
 
 - HTML5
 
-### Note
+# NOTE
 
 Currently, only the following pages are functional and contain working links in this project:
 
