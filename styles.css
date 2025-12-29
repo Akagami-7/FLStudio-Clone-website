@@ -1,0 +1,32 @@
+#headerbar {
+    position: sticky;
+    top: 0px;
+    backdrop-filter: blur(5px) ;
+}
+
+.click {
+    border-radius: 12px;
+    border: 1px solid #b7b7b7d2;
+    background-color: #edededd2;
+    height: 25px;
+    text-align:justify;
+}
+
+.in-body{
+    background: radial-gradient(circle, rgba(233, 95, 3, 0.866), rgb(190, 190, 190));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#btn {
+    border-radius: 12px;
+    border-width: 1px;
+    height: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-stretch: extra-ex;
+}
+
+#btn:active {
+    background-color: rgb(212, 212, 212);
+}

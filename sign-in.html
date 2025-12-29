@@ -5,13 +5,14 @@
     <title>Sign in - FL Studio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <base href="/"> -->
+    <link rel="stylesheet" href="styles.css">
     <h2>
         <center>
             <img src="https://support.image-line.com/action/css/images/fl-studio-logo-dark.png" alt="FL Studio logo" width="110">
         </center>
     </h2>
 </head>
-<body>
+<body class="in-body">
     <center>
         <div>
             <table>
@@ -41,13 +42,13 @@
                     <tr>
                         <td align="left" colspan="2">
                             <label for="mail">Email *</label><br>
-                            <input type="text" id="mail" name="mail" placeholder="John Doe" size="40"><br>
+                            <input type="email" id="mail" name="mail" placeholder="John.doe@example.com" size="40" class="click"><br>
                         </td>    
                     </tr>
                     <tr>
                         <td align="left" colspan="2">
                             <label for="pwd">Password *</label><br>
-                            <input type="text" id="pwd" name="pwd" placeholder="John.doe@example.com" size="40"><br>
+                            <input type="text" id="pwd" name="pwd" placeholder="*****" size="40" class="click"><br>
                         </td>    
                     </tr>
                     <tr>
@@ -63,12 +64,13 @@
                         <td colspan="2" align="center">
                             <br>
                             <!-- <form> -->
-                                <input type="submit" value="Sign In" style="width: 100%;">
+                                <input type="submit" value="Sign In" style="width: 100%;" id="btn">
                             <!-- </form> -->
                         </td>
                     </tr>
                 </table>
             </form>
+        </div>
     </center>
 </body>
 </html>
